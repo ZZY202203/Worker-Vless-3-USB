@@ -2,7 +2,7 @@
 
 ### 这个是一个通过 Cloudflare Workers 搭建，自动生成优选线路 VLESS 节点订阅内容生成器
 
-Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)
+Telegram交流群：[@科技猎奇](https://t.me/AYANGKJDS) Telegram全能王搜索群：[@QNW](https://t.me/AYANGQNW)
 
 # Workers 部署方法 [视频教程](https://youtu.be/AtCF7eq0hcE)
 
