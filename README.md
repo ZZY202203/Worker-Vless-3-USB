@@ -19,7 +19,7 @@ https://github.com/cmliu/WorkerVless2sub/tree/main
 ### 1. 部署 Cloudflare Worker：
 
    - 在 Cloudflare Worker 控制台中创建一个新的 Worker。
-   - 将 [worker.js](https://github.com/Onezyh/Worker-Vless-2-USB/blob/master/_worker.js)  的内容粘贴到 Worker 编辑器中。
+   - 将 [worker.js](https://github.com/ZZY202203/Worker-Vless-3-USB/blob/main/_worker.js)  的内容粘贴到 Worker 编辑器中。
 
 
 ### 2. 添加你的专属优选线路：
